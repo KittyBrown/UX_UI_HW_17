@@ -1,0 +1,63 @@
+footer {
+    background-color: black;
+    width: 100%;
+    padding: 5px;
+    text-align: center;
+}
+  
+.navigation {
+    display: inline-block;
+    width: 100%;
+    padding: 5px;
+    background-color: black;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.red {
+    color: red;
+}
+
+.fancyfonts {
+    font-family: 'Playfair Display', serif;
+}
+
+button {
+    background-color: black;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    color: red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    width: 500px;
+    padding: 5px;
+    text-align: left;
+    float: right;
+    color: black;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+.headshot {
+    width: 180;
+    height: 180;
+}
+
+html {
+    margin: 50px;
+}
+
+.heroImg {
+    margin: 100px; ;
+}
